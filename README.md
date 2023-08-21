@@ -1,5 +1,7 @@
-# A City in Red - The Geography of Sexual Violence in NYC
+# A City in Red - The Geography of Sexual Violence in NYC :city_sunrise:
 This is a project for the 2023 Lede Program at Columbia University. I mapped rape cases per precinct in NYC using <a href="https://www.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page">NYPD</a> data from 2023.
+
+[Access the project](https://sinderskir.github.io/city-in-red/).
 
 ## Data
 The project was built on New York Police Department databases, considering cases of rape reported between January 1 and June 25, 2023. The data on NYC and boroughs' population are from <a href="https://opendata.cityofnewyork.us/">NYC OpenData</a>. General statistics about sexual violence are from the <a href="https://www.rainn.org/statistics/victims-sexual-violence">RAINN</a>.
